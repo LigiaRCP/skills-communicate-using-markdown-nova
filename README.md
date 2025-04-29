@@ -8,7 +8,7 @@
 -->
 
 # Communicate using Markdown
-## important action
+# important action
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
